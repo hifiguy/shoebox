@@ -15,7 +15,8 @@ Say one sentence about something you just bought. Get back a categorised expense
 ## About this repository
 
 **This is the public, sanitized version of the project.** It carries the product: the
-application, the product maps, the screenshots, the video, and the submission packet.
+application, the product maps, the screenshots, and the media. The submission packet
+itself lives in the shared drive linked below.
 
 A separate private repository holds the full record — session transcripts, individual
 idea-capture forms, the team synthesis and build plan, review logs, and internal
@@ -31,13 +32,12 @@ in this repository names a participant, and it contains no email addresses or ph
 | **Live application** | <https://personal-budget-trac-09sk.bolt.host> |
 | **Walkthrough video** | <https://www.loom.com/share/54afa0eaf3b94b93aa04a8f2c78484e4> |
 | **Product video** (42s) | [Play in browser](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4) · [file](resources/shoebox-product-video.mp4) |
-| **Marketing media** | [`resources/`](resources/) — 15 videos and a brand one-pager |
+| **Marketing media** | [`resources/`](resources/) — 15 videos and the [brand one-pager](resources/shoebox-your-money-organized.pdf) |
 | **Brand stills** | [`resources/images/brand/`](resources/images/brand/) — 28 nine-by-sixteen creatives plus the logo |
 | **Application screenshots** | [`screenshots/`](screenshots/) and [`resources/images/app/`](resources/images/app/) |
 | **Product map — current** | [Open in Excalidraw](https://excalidraw.com/#json=0cov6sodmwVA7M-XaCvhe,qBl-Ydq1S_hht_Z8LHRXjw) · file: [`product-map/product-flow-v3.excalidraw`](product-map/product-flow-v3.excalidraw) |
 | **Product map — earlier** | [`product-map/product-flow-v2.excalidraw`](product-map/product-flow-v2.excalidraw) · [`product-map/product-flow.excalidraw`](product-map/product-flow.excalidraw) |
 | **Screenshots** | [`screenshots/`](screenshots/) |
-| **Submission packet** | [`submission/`](submission/) |
 | **Shared team drive** | <https://drive.google.com/drive/folders/1pcK6E13cz7yFC8DA3TgEqqTjY9kvoy-z> — submission content, read-only |
 
 ---
@@ -115,13 +115,12 @@ src/               Next.js prototype — voice capture, deterministic keyword pa
                    in-memory store. Predates the Bolt build and is NOT the submission.
                    Kept because the parser and the Web Speech hook are readable references.
 screenshots/       Deployed-application evidence
-resources/         Marketing media — product video, promo videos, brand one-pager,
-                   and the feature roadmap table
+resources/         Marketing media — product video, promo videos, the brand
+                   one-pager (shoebox-your-money-organized.pdf), and the
+                   feature roadmap table
   images/brand/    28 nine-by-sixteen brand creatives and the ShoeBox logo
   images/app/      Application screenshots from the deployed build
 product-map/       Excalidraw product maps, current and superseded
-submission/        Hackathon submission packet — pitch deck template, product ideas,
-                   and the product-building playbook
 ```
 
 ## Running the prototype
