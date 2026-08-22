@@ -44,11 +44,13 @@ in this repository names a participant, and it contains no email addresses or ph
 
 ## Product video
 
-https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4
+[![Play the ShoeBox product video](resources/shoebox-product-video-poster.jpg)](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4)
 
-<video src="https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4" poster="https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video-poster.jpg" controls width="320"></video>
-
-[Open the video directly](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4) if the player above does not load.
+42 seconds. Click the frame above to play it in the browser, or download
+[`resources/shoebox-product-video.mp4`](resources/shoebox-product-video.mp4).
+GitHub does not embed players for videos committed to a repository, so this is a
+click-through rather than an inline player — the [Loom walkthrough](https://www.loom.com/share/54afa0eaf3b94b93aa04a8f2c78484e4)
+plays inline on its own page.
 
 ---
 
