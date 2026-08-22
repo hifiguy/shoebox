@@ -30,12 +30,22 @@ in this repository names a participant, and it contains no email addresses or ph
 |---|---|
 | **Live application** | <https://personal-budget-trac-09sk.bolt.host> |
 | **Walkthrough video** | <https://www.loom.com/share/54afa0eaf3b94b93aa04a8f2c78484e4> |
-| **Product video** (42s) | [`resources/shoebox-product-video.mp4`](resources/shoebox-product-video.mp4) |
+| **Product video** (42s) | [Play in browser](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4) · [file](resources/shoebox-product-video.mp4) |
 | **Marketing media** | [`resources/`](resources/) — 15 videos and a brand one-pager |
 | **Product map — current** | [Open in Excalidraw](https://excalidraw.com/#json=0cov6sodmwVA7M-XaCvhe,qBl-Ydq1S_hht_Z8LHRXjw) · file: [`product-map/product-flow-v3.excalidraw`](product-map/product-flow-v3.excalidraw) |
 | **Product map — earlier** | [`product-map/product-flow-v2.excalidraw`](product-map/product-flow-v2.excalidraw) · [`product-map/product-flow.excalidraw`](product-map/product-flow.excalidraw) |
 | **Screenshots** | [`screenshots/`](screenshots/) |
 | **Submission packet** | [`submission/`](submission/) |
+
+---
+
+## Product video
+
+https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4
+
+<video src="https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4" poster="https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video-poster.jpg" controls width="320"></video>
+
+[Open the video directly](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4) if the player above does not load.
 
 ---
 
