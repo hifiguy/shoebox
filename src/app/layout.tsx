@@ -27,7 +27,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col bg-zinc-50 dark:bg-zinc-950">
         {children}
         <footer className="border-t border-zinc-200 bg-white px-6 py-4 text-center text-xs text-zinc-400 dark:border-zinc-800 dark:bg-zinc-900">
-          Outskill AIAP C13 Hackathon — Budget Tracker
+          ShoeBox — Outskill AIAP C13 Hackathon · Group 9
         </footer>
       </body>
     </html>
