@@ -32,6 +32,8 @@ in this repository names a participant, and it contains no email addresses or ph
 | **Walkthrough video** | <https://www.loom.com/share/54afa0eaf3b94b93aa04a8f2c78484e4> |
 | **Product video** (42s) | [Play in browser](https://github.com/hifiguy/shoebox/raw/main/resources/shoebox-product-video.mp4) · [file](resources/shoebox-product-video.mp4) |
 | **Marketing media** | [`resources/`](resources/) — 15 videos and a brand one-pager |
+| **Brand stills** | [`resources/images/brand/`](resources/images/brand/) — 28 nine-by-sixteen creatives plus the logo |
+| **Application screenshots** | [`screenshots/`](screenshots/) and [`resources/images/app/`](resources/images/app/) |
 | **Product map — current** | [Open in Excalidraw](https://excalidraw.com/#json=0cov6sodmwVA7M-XaCvhe,qBl-Ydq1S_hht_Z8LHRXjw) · file: [`product-map/product-flow-v3.excalidraw`](product-map/product-flow-v3.excalidraw) |
 | **Product map — earlier** | [`product-map/product-flow-v2.excalidraw`](product-map/product-flow-v2.excalidraw) · [`product-map/product-flow.excalidraw`](product-map/product-flow.excalidraw) |
 | **Screenshots** | [`screenshots/`](screenshots/) |
@@ -114,6 +116,8 @@ src/               Next.js prototype — voice capture, deterministic keyword pa
 screenshots/       Deployed-application evidence
 resources/         Marketing media — product video, promo videos, brand one-pager,
                    and the feature roadmap table
+  images/brand/    28 nine-by-sixteen brand creatives and the ShoeBox logo
+  images/app/      Application screenshots from the deployed build
 product-map/       Excalidraw product maps, current and superseded
 submission/        Hackathon submission packet — pitch deck template, product ideas,
                    and the product-building playbook
